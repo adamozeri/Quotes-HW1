@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Motivation Quotes</string>
+    <string-array name="quotes">
+        <item>"The best time to plant a tree was 20 years ago. The second best time is now."</item>
+        <item>"Your limitation—it’s only your imagination."</item>
+        <item>"Push yourself, because no one else is going to do it for you."</item>
+        <item>"Great things never come from comfort zones."</item>
+        <item>"Dream it. Wish it. Do it."</item>
+        <item>"Success doesn’t just find you. You have to go out and get it."</item>
+        <item>"The harder you work for something, the greater you’ll feel when you achieve it."</item>
+        <item>"Don’t stop when you’re tired. Stop when you’re done."</item>
+        <item>"Wake up with determination. Go to bed with satisfaction."</item>
+        <item>"Do something today that your future self will thank you for."</item>
+    </string-array>
+</resources>

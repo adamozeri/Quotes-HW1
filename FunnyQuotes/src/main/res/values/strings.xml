@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Funny Quotes</string>
+    <string-array name="quotes">
+        <item>"I'm on a seafood diet. I see food and I eat it."</item>
+        <item>"Why don’t scientists trust atoms? Because they make up everything!"</item>
+        <item>"I would avoid the sushi if I was you. It’s a little fishy."</item>
+        <item>"Want to hear a joke about construction? I'm still working on it."</item>
+        <item>"I told my wife she was drawing her eyebrows too high. She looked surprised."</item>
+        <item>"Why don’t skeletons fight each other? They don’t have the guts."</item>
+        <item>"I used to play piano by ear, but now I use my hands."</item>
+        <item>"I told my computer I needed a break, and now it won’t stop sending me Kit Kats."</item>
+        <item>"Parallel lines have so much in common. It’s a shame they’ll never meet."</item>
+        <item>"I’m reading a book on anti-gravity. It’s impossible to put down."</item>
+    </string-array>
+</resources>

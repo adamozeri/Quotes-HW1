@@ -1,0 +1,10 @@
+<resources>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="add_a_quote">Add a quote</string>
+    <string name="quote_of_the_day">Quote of the day:</string>
+    <string name="app_name">Quotes</string>
+    <string name="submit">Submit</string>
+    <string name="write_a_quote">Write a quote</string>
+    <string-array name="quotes">No Quotes</string-array>
+</resources>
